@@ -1,4 +1,4 @@
 
-this is page 1 of chapter 2
+this is page 1 of chapter 2...
  we know how to commit and push
 
