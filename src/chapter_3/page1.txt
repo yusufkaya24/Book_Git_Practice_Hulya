@@ -5,3 +5,6 @@ hello, new day
 working on chapter 3
 
 this page 1
+
+new text for this page, working in day 3
+new lines  new lines
